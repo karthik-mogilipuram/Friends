@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\development\\Flutter\\first_app"
+	},
+	{
+		"path": ".."
+	}
+],
+"settings": {
+	"liveServer.settings.multiRootWorkspaceName": "my-app"
+}
+}
